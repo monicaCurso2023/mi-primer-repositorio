@@ -1,4 +1,4 @@
-# Mi primer repositorio en GitHub
+# Mi primer README
 
 ## título 2
 ### título 3
